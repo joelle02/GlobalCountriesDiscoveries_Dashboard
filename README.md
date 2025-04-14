@@ -29,7 +29,7 @@ This project is a data visualization dashboard that provides insights into vario
 3. Use a local server to serve the project:
    - **Option 1**: Use VS Code Live Server:
      - Open the project folder in VS Code.
-     - Right-click on `index.html` and select **"Open with Live Server"**.
+     - Right-click on `index.html` and select **"Open with Live Server"**. (ensure Chrome is set as your default browser).
    - **Option 2**: Use Python's HTTP server:
      ```bash
      python -m http.server 8000
